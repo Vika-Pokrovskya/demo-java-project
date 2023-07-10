@@ -1,4 +1,4 @@
-package pokr;
+package pokr.model;
 
 import org.springframework.stereotype.Component;
 
